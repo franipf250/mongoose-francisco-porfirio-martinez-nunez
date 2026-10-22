@@ -1,0 +1,1 @@
+import { AptitudModel } from "../models/aptitud.model";

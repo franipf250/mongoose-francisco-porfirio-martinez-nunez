@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "mongoose": "^9.11.3"
-  }
+  },
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franipf250/mongoose-francisco-porfirio-martinez-nunez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/franipf250/mongoose-francisco-porfirio-martinez-nunez/issues"
+  },
+  "homepage": "https://github.com/franipf250/mongoose-francisco-porfirio-martinez-nunez#readme"
 }
